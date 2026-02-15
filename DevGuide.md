@@ -428,3 +428,13 @@ issues in Eclipse:
 [fork]: https://docs.github.com/en/get-started/quickstart/fork-a-repo
 [ghidra-data]: https://github.com/NationalSecurityAgency/ghidra-data
 [DbgGuide]: DebuggerDevGuide.md
+[developmentguide]: DEVELOPMENT_GUIDE.md
+
+## Additional Documentation
+
+For more comprehensive documentation, please refer to:
+
+- [Development Guide][developmentguide]: Detailed development documentation with project architecture, technical stack, core module design, and API reference
+- [User Guide][userguide]: Comprehensive user manual with installation guide, quick start tutorial, and feature operation instructions
+
+[userguide]: USER_GUIDE.md

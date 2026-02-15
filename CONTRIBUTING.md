@@ -83,8 +83,11 @@ smooth process when submitting a patch:
 
 ## Getting Started
 
-Once available, please see the [Developer's Guide][devguide] for instructions to set up a suitable 
-development environment.
+To set up a suitable development environment, please see the following documentation:
+- [Developer's Guide][devguide]: Official developer guide from NSA
+- [Development Guide][developmentguide]: Comprehensive development documentation with detailed environment setup instructions
+
+[developmentguide]: DEVELOPMENT_GUIDE.md
 
 ## Timeline and Managing Expectations
 

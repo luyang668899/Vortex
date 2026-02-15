@@ -118,7 +118,21 @@ gradle prepdev eclipse buildNatives
 When Eclipse finishes building the projects, Ghidra can be launched and debugged with the provided
 **Ghidra** Eclipse *run configuration*.
 
-For more detailed information on developing Ghidra, please read the [Developer's Guide][devguide].
+For more detailed information on developing Ghidra, please read the [Developer's Guide][devguide] and [Development Guide][developmentguide].
+
+## Documentation
+
+### User Documentation
+- [User Guide][userguide]: Detailed user manual with installation guide, quick start tutorial, and feature operation instructions
+- [Getting Started][gettingstarted]: Basic introduction to Ghidra
+
+### Developer Documentation
+- [Development Guide][developmentguide]: Comprehensive development documentation with project architecture, technical stack, and API reference
+- [Developer's Guide][devguide]: Official developer guide from NSA
+- [Contributor's Guide][contrib]: Guidelines for contributing to Ghidra
+
+[developmentguide]: DEVELOPMENT_GUIDE.md
+[userguide]: USER_GUIDE.md
 
 ## Contribute
 If you would like to contribute bug fixes, improvements, and new features back to Ghidra, please 
